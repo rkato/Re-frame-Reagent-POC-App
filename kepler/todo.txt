@@ -1,0 +1,6 @@
+1. Create code repository
+   Repo details
+   cd /path/to/my/repo
+   git remote add origin https://ronaldkato@bitbucket.org/ronaldkato/techneg-viterbi.git
+   git push -u origin --all # pushes up the repo and its refs for the first time
+   git push origin --tags # pushes up any tags

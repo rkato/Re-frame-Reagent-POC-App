@@ -1,0 +1,3 @@
+(merge {:name "ronald" :age 34} {:name "Desire" :age 28}) 
+(doc merge)
+quit
